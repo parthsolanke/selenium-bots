@@ -1,2 +1,2 @@
-# auto-job-application
+# JOBZ
 Automated Job Application On LinkedIn
