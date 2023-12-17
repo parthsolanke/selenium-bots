@@ -1,4 +1,4 @@
 # BOTSZZZ
-Automated Job Application On LinkedIn
-Twitter Compliant Bot
-Instagram Follower Bot
+1. Automated Job Application On LinkedIn
+2. Twitter Compliant Bot
+3. Instagram Follower Bot
