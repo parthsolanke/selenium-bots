@@ -5,11 +5,11 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 
 URL = "https://www.linkedin.com/jobs/search/?currentJobId=3776647937&f_AL=true&geoId=102713980&keywords=Marketing%20Manager&location=India&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true"
-EMAIL = "michaelandjello1564@gmail.com"
-PASS = "89LRg96BQn/!&R9"
-PHONE = "1234567890"
-WORKEXP01 = "2"
-WORKEXP02 = "4"
+EMAIL = "EMAILID"
+PASS = "PASSWORD"
+PHONE = "PHONENO"
+WORKEXP01 = "X"
+WORKEXP02 = "X"
 
 def abort():
     close_button = driver.find_element(by=By.CLASS_NAME, value="artdeco-modal__dismiss")
